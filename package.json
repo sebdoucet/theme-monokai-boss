@@ -1,0 +1,17 @@
+{
+	"name": "theme-monokai-boss",
+	"version": "1.0.0",
+	"publisher": "sebdoucet",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai For Bosses",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai.tmTheme"
+			}
+		]
+	}
+}
